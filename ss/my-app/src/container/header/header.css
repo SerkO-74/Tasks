@@ -1,0 +1,14 @@
+.header {
+  margin: 20px auto 5px 40px;
+  padding: 5px 0px;
+  width: 310px;
+  border-top: 2px solid #d3cdcd;
+  font-family: Secular One;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+  width: 400px;
+}
