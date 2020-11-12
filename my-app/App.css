@@ -1,0 +1,28 @@
+.page {
+  margin: 20px auto 0px 40px;
+}
+
+button {
+  border: none;
+  outline: none;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.header {
+  display: flex;
+  margin: 0px auto 0px 40px;
+  padding: 5px 0px;
+  width: 310px;
+  border-top: 2px solid #d3cdcd;
+  font-family: Secular One;
+}
+
+.post {
+  margin: 0px 40px;
+  padding: 5px 15px 10px 10px;
+  width: 470px;
+  border-top: 2px solid rgb(131, 124, 124);
+  font-family: Sedan;
+}
+
+
