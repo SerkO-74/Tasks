@@ -1,0 +1,14 @@
+.flex {
+  display: flex;
+  background-color: grey;
+  margin: 5px;
+}
+
+.tel {
+  margin: 0px;
+  padding: 0px;
+  
+}
+.tex {
+  margin-left: 10px;
+}

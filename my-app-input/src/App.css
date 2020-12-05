@@ -1,0 +1,73 @@
+.App {
+margin: 0px;
+padding: 0px;
+}
+
+.page {
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(208, 173, 240);
+  height: 100vh;
+}
+
+.leftSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #8740c9;
+  width: 400px;
+  height: 100%;
+}
+
+.btn {
+  background-color: crimson;
+  width: 333px;
+  height: 54px;
+  margin: 10px;
+  border-radius: 20px;
+  text-shadow: 1px 1px 2px black, 0 0 1em hsl(0, 0%, 0%);
+  color: aliceblue;
+  
+}
+.btn:hover {
+  background: #ece3d9de;
+  color: rgb(4, 65, 19)
+} 
+
+.btn:focus {
+  background: hsl(60, 64%, 85%);
+  border: 2px solid #0eb13f
+}
+
+.input{ 
+  width: 333px;
+  height: 44px;
+  margin: 0px;
+  /* display: flex;
+  flex-direction: column; */
+  border-radius: 0px 10px;
+}
+
+.inputChildren {
+
+  width: 166px;
+  margin-top: 10px;
+  padding: 0px;
+  background-color: #a51b1b;
+  color: rgb(255, 255, 255);
+  font: italic small-caps bold 10px/2 cursive;
+}
+.rr {
+    display: flex;
+  flex-direction: row;
+}
+.tt {
+  display: flex;
+  align-items: center;
+  margin: 10px 0 0 0 ;
+  padding: 0px;
+  font: italic small-caps bold 10px/2 cursive;
+  
+
+}

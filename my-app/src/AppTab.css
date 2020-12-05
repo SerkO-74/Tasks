@@ -1,0 +1,42 @@
+.page {
+margin: 20px;
+
+}
+.menu {
+  display: flex;
+  height: 20px;
+
+}
+
+.buttonMenu {
+  border: 2px solid hsl(0, 0%, 100%);
+  border-bottom: 2px solid green;
+  border-radius: 3px 5px;
+  outline: none;
+  background-color: hsl(0, 0%, 100%);
+  margin-right: 5px;
+}
+
+.buttonMenuClik {
+  border: 2px solid #0eb13f;
+  border-radius: 3px 5px;
+  outline: none;
+  margin-right: 5px;
+  background: hsl(60, 64%, 85%);
+  color: rgb(4, 65, 19)
+}
+
+.buttonMenu:hover {
+  background: #ece3d9de;
+  color: rgb(4, 65, 19)
+} 
+
+.buttonMenu:focus {
+  background: hsl(60, 64%, 85%);
+  border: 2px solid #0eb13f
+}
+
+.AnimalsInformation {
+width: 600px;
+text-align: justify;
+}
